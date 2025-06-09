@@ -29,7 +29,7 @@ Output:
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/629e181c-f11e-450c-9057-a264734c9874" />
 
 
-**Made with ❤️ by DwiCahyaNov** 
+Made with ❤️ by Dwi Cahya Novita
 
 Tutorial by @Siddhardhan (YouTube)
 
